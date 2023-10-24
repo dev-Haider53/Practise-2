@@ -14,7 +14,7 @@ function App() {
         <br />
         <input placeholder="password" type="password" required />
         <br />
-        <button type="submit">Sign in</button>
+        <button type="submit">Submit</button>
       </form>
     </div>
   );
